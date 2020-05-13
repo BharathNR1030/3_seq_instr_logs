@@ -1,0 +1,30 @@
+cov --dir out_2020-05-13/spike_sim/
+
+
+Wed, 13 May 2020 14:22:33 INFO     Creating output directory: cov_out_2020-05-13
+Wed, 13 May 2020 14:22:33 INFO     Processing trace log under out_2020-05-13/spike_sim/
+Wed, 13 May 2020 14:22:33 INFO     Process spike log[1/5] : out_2020-05-13/spike_sim/riscv_custom_test.0.log
+Wed, 13 May 2020 14:22:33 INFO     Processing spike log : out_2020-05-13/spike_sim/riscv_custom_test.0.log
+Wed, 13 May 2020 14:22:33 INFO     Processed instruction count : 473
+Wed, 13 May 2020 14:22:33 INFO     CSV saved to : out_2020-05-13/spike_sim/riscv_custom_test.0.csv
+Wed, 13 May 2020 14:22:33 INFO     Process spike log[2/5] : out_2020-05-13/spike_sim/riscv_custom_test.1.log
+Wed, 13 May 2020 14:22:33 INFO     Processing spike log : out_2020-05-13/spike_sim/riscv_custom_test.1.log
+Wed, 13 May 2020 14:22:33 INFO     Processed instruction count : 653
+Wed, 13 May 2020 14:22:33 INFO     CSV saved to : out_2020-05-13/spike_sim/riscv_custom_test.1.csv
+Wed, 13 May 2020 14:22:33 INFO     Process spike log[3/5] : out_2020-05-13/spike_sim/riscv_custom_test.2.log
+Wed, 13 May 2020 14:22:33 INFO     Processing spike log : out_2020-05-13/spike_sim/riscv_custom_test.2.log
+Wed, 13 May 2020 14:22:33 INFO     Processed instruction count : 201
+Wed, 13 May 2020 14:22:33 INFO     CSV saved to : out_2020-05-13/spike_sim/riscv_custom_test.2.csv
+Wed, 13 May 2020 14:22:33 INFO     Process spike log[4/5] : out_2020-05-13/spike_sim/riscv_custom_test.3.log
+Wed, 13 May 2020 14:22:33 INFO     Processing spike log : out_2020-05-13/spike_sim/riscv_custom_test.3.log
+Wed, 13 May 2020 14:22:33 INFO     Processed instruction count : 397
+Wed, 13 May 2020 14:22:33 INFO     CSV saved to : out_2020-05-13/spike_sim/riscv_custom_test.3.csv
+Wed, 13 May 2020 14:22:33 INFO     Process spike log[5/5] : out_2020-05-13/spike_sim/riscv_custom_test.4.log
+Wed, 13 May 2020 14:22:33 INFO     Processing spike log : out_2020-05-13/spike_sim/riscv_custom_test.4.log
+Wed, 13 May 2020 14:22:33 INFO     Processed instruction count : 629
+Wed, 13 May 2020 14:22:33 INFO     CSV saved to : out_2020-05-13/spike_sim/riscv_custom_test.4.csv
+Wed, 13 May 2020 14:22:33 INFO     Building the coverage collection framework
+Wed, 13 May 2020 14:23:08 INFO     Collecting functional coverage from 5 trace CSV
+Wed, 13 May 2020 14:23:08 INFO     Processing batch 1/1
+Wed, 13 May 2020 14:23:12 INFO     Collecting functional coverage from 5 trace CSV...done
+Wed, 13 May 2020 14:23:12 INFO     Coverage results are saved to cov_out_2020-05-13
