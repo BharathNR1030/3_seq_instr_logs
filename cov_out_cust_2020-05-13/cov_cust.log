@@ -1,4 +1,5 @@
-cov --dir out_2020-05-13/spike_sim/
+cov --dir out_2020-05-13/spike_sim
+
 
 
 Wed, 13 May 2020 14:22:33 INFO     Creating output directory: cov_out_2020-05-13
